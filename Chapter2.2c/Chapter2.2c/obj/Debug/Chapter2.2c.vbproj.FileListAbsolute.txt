@@ -1,0 +1,10 @@
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter2.2c\Chapter2.2c\bin\Debug\Chapter2.2c.exe.config
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter2.2c\Chapter2.2c\bin\Debug\Chapter2.2c.exe
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter2.2c\Chapter2.2c\bin\Debug\Chapter2.2c.pdb
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter2.2c\Chapter2.2c\bin\Debug\Chapter2.2c.xml
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter2.2c\Chapter2.2c\obj\Debug\Chapter2._2c.Form1.resources
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter2.2c\Chapter2.2c\obj\Debug\Chapter2._2c.Resources.resources
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter2.2c\Chapter2.2c\obj\Debug\Chapter2.2c.vbproj.GenerateResource.Cache
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter2.2c\Chapter2.2c\obj\Debug\Chapter2.2c.exe
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter2.2c\Chapter2.2c\obj\Debug\Chapter2.2c.xml
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter2.2c\Chapter2.2c\obj\Debug\Chapter2.2c.pdb
